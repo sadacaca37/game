@@ -1,0 +1,8 @@
+{
+  "name": "Remix Bubble Bobble Retro Arcade",
+  "description": "제작자-김은경\n1~2인용 8비트 도트 스타일 레트로 아케이드 게임 (10개 다채로운 스테이지, 버블 슈팅, 30위 명예의 전당 랭킹, 동점 시 타임 어택 정렬, 8비트 BGM \u0026 Sound FX)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
