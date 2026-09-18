@@ -1,0 +1,6 @@
+{
+  "name": "Super Mario Action Web",
+  "description": "HTML5 Canvas 기반 슈퍼 마리오 횡스크롤 액션 게임. 5가지 개성 넘치는 플레이어 캐릭터, 10단계 스테이지, 요시 탑승, 프로펠러/날다람쥐 슈트, 파이어 클라운 카, 드라이본즈 껍질, 쿠파 보스전 및 상위 30위 랭킹 시스템 지원.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

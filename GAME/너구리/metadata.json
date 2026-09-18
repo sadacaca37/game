@@ -1,0 +1,8 @@
+{
+  "name": "Remix 너구리 (Ponpoko 1982)",
+  "description": "고전 아케이드 너구리(Ponpoko) 5단계 스테이지, 점수 및 장애물 회피 보너스 시스템, 3종 파워업 아이템 게임",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

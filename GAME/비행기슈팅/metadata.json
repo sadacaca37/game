@@ -1,0 +1,7 @@
+{
+  "name": "Retro 1945 Air Combat",
+  "description": "Classic arcade retro airplane shooting game with WWII fighters, bullet patterns, bosses, power-ups, and nostalgic chiptune audio.",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
